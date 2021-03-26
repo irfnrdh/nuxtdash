@@ -8,13 +8,19 @@
 * Register, Signin, ForgetPassword
 * Basic CRUD
 
+## To Do List 
+- [x] Backend Laravel: Sanctum
+- [ ] Frontend Nuxt: Auth
 
 ## Table of Contents
-* [Quick Start](#quick-start)
-* [Browser Support](#browser-support)
-* [Reporting Issues](#reporting-issues)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
+- [NUXTDASH](#nuxtdash)
+  - [To Do List](#to-do-list)
+  - [Table of Contents](#table-of-contents)
+  - [Quick Start](#quick-start)
+  - [Browser Support](#browser-support)
+  - [Reporting Issues](#reporting-issues)
+  - [Licensing](#licensing)
+  - [Useful Links](#useful-links)
 
 ## Quick Start
 Masih dalam pengerjaan 
